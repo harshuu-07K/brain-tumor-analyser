@@ -83,6 +83,8 @@ The comparative performance and diagnostic curves are rendered dynamically withi
 
 ## 🖥️ Streamlit Web Application Features
 
+website link : https://insure-ai-capstone.streamlit.app/
+
 The interactive dashboard (`app.py`) includes:
 - **🩺 Diagnostic Assistant:**
   - Dynamic model selection (Custom CNN vs MobileNetV2).
