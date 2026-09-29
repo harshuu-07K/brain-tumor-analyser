@@ -83,7 +83,7 @@ The comparative performance and diagnostic curves are rendered dynamically withi
 
 ## 🖥️ Streamlit Web Application Features
 
-website link : https://insure-ai-capstone.streamlit.app/
+website link : https://brain-tumor-analyser.streamlit.app/
 
 The interactive dashboard (`app.py`) includes:
 - **🩺 Diagnostic Assistant:**
